@@ -83,8 +83,10 @@ The features that will be utilised in this project will be as follows:
 #### Library
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
+1. [Font Awesome 5.13.3:](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [Hover 5.15.3](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css)
+    - Hover effects used for the animation on hovering over links and buttons.
 
 #### Programs Used
 1. [Google Chrome:](https://www.google.co.uk/intl/en_uk/chrome/)
